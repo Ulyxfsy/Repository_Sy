@@ -24,6 +24,14 @@ Runs silently in the background.
 Focuses on ethical and responsible use in a controlled environment.
 - **Skills Used:** C++, Security Basics, Key Logging concepts.
 
+### 4. Track Location with IP Address using python
+- **Description:** A simple python program demonstrating how location tracking can be done via IP Address and ip-api geolocation API.
+- **Key Features:**
+Single and Multiple IP Address Tracking.
+Geolocation Data Retrieval.
+API Integration.
+- **Skills Used:** Python, Security Basics, IP Address and API usage concepts.
+  
 ## Skills Demonstrated
 - **Programming Languages:** Python, HTML, CSS, JavaScript, C++.
 - **Cybersecurity Concepts:** IP tracking, algorithm encryption and decryption and keylogging concept.
