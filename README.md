@@ -5,17 +5,12 @@ Welcome to my Projects Portfolio! I’m a second-year Bachelor of Computer Scien
 
 ## Highlighted Projects
 
-### [1. HTML Resume](https://ulyxfsy.github.io/resume_/)
-- **Description:** A clean and responsive HTML-based resume built using HTML and CSS.
-- **Key Features:** Mobile-friendly design, optimized for GitHub Pages deployment.
-- **Skills Used:** HTML, CSS.
-
-### 2. AES Encryption and Decryption
+### 1. AES Encryption and Decryption
 - **Description:** Developed a tool to encrypt and decrypt a simple data with AES, leveraging Python cryptography libraries.
 - **Key Features:** Demonstrates the concept encrypting and decrypting a data using AES algorithm in CTR and OCB mode operation.
 - **Skills Used:** Networking concepts, Python.
 
-### 3. Simple Keylogger using C++
+### 2. Simple Keylogger using C++
 - **Description:** A lightweight keylogger program developed in C++ to capture and log keystrokes for educational purposes. This project demonstrates how keylogging works and emphasizes ethical use for security research and learning.
 - **Key Features:**
 Captures and records user keystrokes in real time.
@@ -24,7 +19,7 @@ Runs silently in the background.
 Focuses on ethical and responsible use in a controlled environment.
 - **Skills Used:** C++, Security Basics, Key Logging concepts.
 
-### 4. Track Location with IP Address using python
+### 3. Track Location with IP Address using python
 - **Description:** A simple python program demonstrating how location tracking can be done via IP Address and ip-api geolocation API.
 - **Key Features:**
 Single and Multiple IP Address Tracking.
